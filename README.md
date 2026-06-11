@@ -15,8 +15,8 @@ Bem-vindo ao meu laboratório de códigos. Sou um desenvolvedor focado em engenh
 
 ### 🚀 Projetos em Destaque
 
+* 🧠 **[ThemisAI](https://github.com/MarcosStark/ThemisAI):** Minha principal ferramenta de Inteligência Artificial, construída com uma arquitetura avançada de **RAG** (*Retrieval-Augmented Generation*) para conectar modelos de linguagem a bases de dados específicas.
 * 🔍 **API de Ferramentas de Segurança:** Uma API REST assíncrona construída com FastAPI para execução de varreduras de rede e auditorias de portas abertas em alta velocidade, utilizando conceitos avançados de concorrência (`threading.Semaphore`) e integridade de memória (`threading.Lock`). *[Em desenvolvimento]*
-* 🐍 **[Códigos Python](https://github.com/MarcosStark/Codigos-Python):** Repositório central de estudos, automações cotidianas e scripts utilitários desenvolvidos para consolidação de lógica de programação.
 
 ---
 
